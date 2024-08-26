@@ -1,1 +1,3 @@
-# World Life Expectancy Project
+# Movie Genres Data Analysis
+
+In this project, I analyzed movie data to understand how different genres perform in terms of revenue, budget, and popularity. I cleaned the data, split the genre information into individual entries, and then looked at average figures for each genre. Using charts and heatmaps, I explored how genres vary over time. This analysis provides useful insights into genre trends and helps make better decisions in the film industry.
