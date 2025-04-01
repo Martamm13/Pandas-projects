@@ -1,3 +1,3 @@
 # Food Marketing Data Analysis
 
-The food marketing project analyzed purchase data to understand the relationships between different types of purchases and demographics. It involved summarizing total purchases, visualizing spending patterns with bar plots, and exploring overall spending trends. The project used various plots to uncover insights into customer behavior and spending patterns.
+In this project, I looked at purchase data to see how spending varies across different demographics. I summed up total purchases, used bar plots to spot patterns, and explored overall trends to understand customer behavior better.
